@@ -1,4 +1,4 @@
-# atividade---BACKEND---integracao-mantine-mysql---OTHERS
+# integrando-mantine-e-mysql-backend
 
 ## Sobre o projeto
 Essa atividade trata-se de um projeto divido em duas partes, onde este é usada pra aplicação de conhecimentos de express e banco de dados mySQL.
